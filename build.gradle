@@ -30,15 +30,10 @@ gradleVersion = "7.3.3"
 distributionType = Wrapper.DistributionType.ALL
 }
 
-android {
-
-
-defaultConfig {
-
+android{
+defaultConfig 
 minSdkVersion 21
 
-
-}
 
 }
 
